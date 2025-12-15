@@ -36,23 +36,23 @@ Hay muchas mejoras que se podrían implementar. Por ejemplo, podríamos hacer qu
 
 ## Minijuego Victor: Single ball PANG _1 ball 1 stage 1 world_
 
-El objetivo de este **pang** es esquivar una bola que rebota por la pantalla y eliminarla disparándole, menguando su tamaño hasta hacerla desaparecer. El jugador puede moverse a izquierda y derecha para evitar el impacto de la bola y disparar para reducir su tamaño. Cada disparo hace que la bola sea más pequeña y esto hace que rebote con menos fuerza cogiendo menos altura, hasta que finalmente desaparece y se gana la partida. Como en el original, solo se puede hacer otro disparo si el anterior ha terminado, bien sea porque dio a la bola o llegó al techo.
+El objetivo de este **pang** es esquivar una bola que rebota por la pantalla y eliminarla disparándole, menguando su tamaño hasta hacerla desaparecer. El jugador puede moverse a izquierda y derecha para evitar el impacto de la bola y disparar para reducir su tamaño. Cada disparo hace que la bola sea más pequeña y esto hace que rebote con menos fuerza cogiendo menos altura, hasta que finalmente desaparece y se gana la partida. Como en el original, **solo se puede hacer otro disparo si el anterior ha terminado**, bien sea porque dio a la bola o llegó al techo.
 
-El juego cuenta con un nivel de dificultad muy fácil, ya que el jugador dispone de cuatro vidas más una extra y las bolas no se dividen en dos. Cada vez que la bola golpea al jugador se pierde una vida, y al quinto impacto la partida termina con un **GAME OVER**. Para ganar la pantalla, solo es necesario acertar cuatro disparos a la bola. 
+El juego cuenta con un nivel de **dificultad muy fácil**, ya que el jugador dispone de cuatro vidas más una extra y las bolas no se dividen en dos. Cada vez que la bola golpea al jugador se pierde una vida, y al **quinto impacto** la partida termina con un **GAME OVER**. Para **ganar** la pantalla, solo es necesario acertar **cuatro disparos** a la **bola**. 
 
 El personaje cambia de disfraz al desplazarse, al disparar y al morir. Cuando le quitan una vida a parte de desaparecer del marcador de vidas un monigote, cambia su apariencia durante unas decimas de segundo a pixelado.
 
 También puse efectos de sonido en el disparo, cuando la bola es acertada con el disparo y cuando la bola te golpea quitándote una vida. A parte de tres temas de fondo para diferentes ocasiones, select, game y win.
 
-Hay varias mejoras que se podrían implementar en el futuro. Por ejemplo, se podría hacer que al disparar la bola se dividiera en dos y que el disfraz de esta no rotase y fuera estático como pasaba en el original. También sería interesante incluir nuevos niveles con mas bolas o con varios obstáculos en pantalla. Otra posible mejora sería encontrar la forma de que el comando disparo solo se ejecute en la pantalla de juego, cosa que no logré corregir. También estaría bien añadir un intro más para iniciar el juego una vez ya ves la pantalla de juego, sin que empiece directamente. Otra cosa que me hubiera gusta es incluir mas efectos visuales, como un destello azul al disparar o mini explosión cuando golpeas la bola y aparecen las mas pequeñas.
+Hay varias **mejoras** que se podrían implementar en el futuro. Por ejemplo, se podría hacer que al disparar la bola se **dividiera en dos** y que el disfraz de esta **no rotase** y fuera estático como pasaba en el original. También sería interesante incluir **nuevos niveles** con mas bolas o con varios obstáculos en pantalla. Otra posible mejora sería encontrar la forma de que _el comando disparo solo se ejecute en la pantalla de juego_, cosa que no logré corregir. También estaría bien añadir un intro más para iniciar el juego una vez ya ves la pantalla de juego, sin que empiece directamente. Otra cosa que me hubiera gusta es incluir **mas efectos visuales**, como un destello azul al disparar o mini explosión cuando golpeas la bola y aparecen las mas pequeñas.
 
 **Instrucciones del juego:**
 
-1. Presiona la <ins>bandera verde</ins> para iniciar el juego.
+1. Presiona la <ins>bandera verde</ins> para **iniciar el juego**.
 2. Espera a que aparezcan las instrucciones en pantalla, aparecerán detrás de los créditos.
-3. Mantén pulsada la tecla <ins>Intro</ins> (no presionar una sola vez) y el juego comienza inmediatamente.
-4. Muévete a izquierda y derecha con las <ins>flechas del teclado</ins>.
-5. Dispara con la tecla <ins>Espacio</ins> para reducir el tamaño de la bola. 
+3. Mantén pulsada la tecla <ins>Intro</ins> (no presionar una sola vez) y **el juego comienza** inmediatamente.
+4. **Muévete** a izquierda y derecha con las <ins>flechas del teclado</ins>.
+5. **Dispara** con la tecla <ins>Espacio</ins> para reducir el tamaño de la bola. 
 
 _Mientras el disparo esté visible en pantalla, no se puede volver a disparar._
 
