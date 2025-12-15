@@ -46,23 +46,19 @@ También puse efectos de sonido en el disparo, cuando la bola es acertada con el
 
 Hay varias mejoras que se podrían implementar en el futuro. Por ejemplo, se podría hacer que al disparar la bola se dividiera en dos y que el disfraz de esta no rotase y fuera estático como pasaba en el original. También sería interesante incluir nuevos niveles con mas bolas o con varios obstáculos en pantalla. Otra posible mejora sería encontrar la forma de que el comando disparo solo se ejecute en la pantalla de juego, cosa que no logré corregir. También estaría bien añadir un intro más para iniciar el juego una vez ya ves la pantalla de juego, sin que empiece directamente. Otra cosa que me hubiera gusta es incluir mas efectos visuales, como un destello azul al disparar o mini explosión cuando golpeas la bola y aparecen las mas pequeñas.
 
-Instrucciones del juego:
+**Instrucciones del juego:**
 
-Presiona la <ins>bandera verde</ins> para iniciar el juego.
+1. Presiona la <ins>bandera verde</ins> para iniciar el juego.
+2. Espera a que aparezcan las instrucciones en pantalla, aparecerán detrás de los créditos.
+3. Mantén pulsada la tecla <ins>Intro</ins> (no presionar una sola vez) y el juego comienza inmediatamente.
+4. Muévete a izquierda y derecha con las <ins>flechas del teclado</ins>.
+5. Dispara con la tecla <ins>Espacio</ins> para reducir el tamaño de la bola. 
 
-Espera a que aparezcan las instrucciones en pantalla, aparecerán detrás de los créditos.
+_Mientras el disparo esté visible en pantalla, no se puede volver a disparar._
 
-Mantén pulsada la tecla <ins>Intro</ins> (no presionar una sola vez) y el juego comienza inmediatamente.
+_Si la bola te golpea cinco veces, aparecerá el <ins>game over</ins>._
 
-Muévete a izquierda y derecha con las <ins>flechas del teclado</ins>.
-
-Dispara con la tecla <ins>Espacio</ins> para reducir el tamaño de la bola.
-
-Mientras el disparo esté visible en pantalla, no se puede volver a disparar.
-
-Si la bola te golpea cinco veces, aparecerá el <ins>game over</ins>.
-
-Para reiniciar el juego, vuelve a presionar la <ins>bandera verde</ins>.
+_Para reiniciar el juego, vuelve a presionar la <ins>bandera verde</ins>._
 
 ***Enlace al Scratch:*** https://scratch.mit.edu/projects/1255798414
 
